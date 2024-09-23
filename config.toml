@@ -1,3 +1,7 @@
+[dns]
+nameserver = "https://8.8.8.8/dns-query"
+path = "/dns-query"
+
 [[inbound]]
 protocol = "vless"
 uuid = "0fbf4f81-2598-4b6a-a623-0ead4cb9efa8"
