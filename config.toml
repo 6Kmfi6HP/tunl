@@ -16,7 +16,7 @@ password = "test"
 [outbound]
 addresses = ["cdn-all.xn--b6gac.eu.org"]
 port = 443
-protocol = "relay_v1"
+protocol = "relay_v2"
 match = [
     "173.245.48.0/20",
     "103.21.244.0/22",
